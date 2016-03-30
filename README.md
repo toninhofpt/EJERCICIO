@@ -1,2 +1,2 @@
 # EJERCICIO
-Continuacion de la pagina web tipo google y la utilice para hacer pruebas con ejercicios en git
+Copie la  pagina de google en html5 para hacer practicas con git
